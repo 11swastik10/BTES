@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9029","Checkout functionality","chromium","2026-06-30","passed","2026-06-30","","LoginPage.spec.js","",""
+"","15297","Add product to cart","chromium","2026-06-30","passed","2026-06-30","","LoginPage.spec.js","",""
+"","1602","Login Add Cart Checkout","chromium","2026-06-30","passed","2026-06-30","","LoginPage.spec.js","",""
+"","12081","Login functionality","chromium","2026-06-30","passed","2026-06-30","","LoginPage.spec.js","",""
